@@ -15,6 +15,8 @@ globally by using `npm`.
 
 # Requisite 2 (Screenshot)
 
+<img src="https://raw.githubusercontent.com/sisco0/nervos-hackathon/main/04/02_sudt_tokens.png">
+
 # Requisite 3 (Text)
 
 ```
@@ -24,6 +26,8 @@ https://explorer.nervos.org/aggron/transaction/0x8bf3266d7072b9de1203de40c47296e
 Then, we deposit into our Layer 2 wallet:
 
 # Requisite 4 (Screenshot)
+
+<img src="https://raw.githubusercontent.com/sisco0/nervos-hackathon/main/04/04_deposit_layer2.png">
 
 # Requisite 5 (Text)
 
