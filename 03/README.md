@@ -9,6 +9,8 @@ Then, we run the script and obtain the result:
 
 # Requisite 1 (Screenshot)
 
+<img src="https://raw.githubusercontent.com/sisco0/nervos-hackathon/main/03/SmartContract_Call.png">
+
 # Requisite 2 (Text)
 
 Transaction Hash:
