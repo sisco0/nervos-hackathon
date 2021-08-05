@@ -5,6 +5,7 @@ I am happy that I could contribute to _Nervos Hackathon_ by solving the tasks sh
 First of all, I had to get ckb-cli and godwoken-example (with the given branch stated in the documentation) repositories. After that, I had to go to ckb-cli and create a new account, which has a mainnet and a testnet address
 
 # First requisite (Screenshot)
+<img src="https://raw.githubusercontent.com/sisco0/nervos-hackathon/main/01/Screenshot_Account.png">
 
 After creating these new shiny wallets, I had to go to https://faucet.nervos.org/ to drop some balance into the testnet wallet. The testnet wallet balance and the details of the bonus transaction could be seen in the following URL:
 
