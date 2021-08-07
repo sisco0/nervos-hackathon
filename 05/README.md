@@ -6,6 +6,8 @@ Firstly, a smart contract is deployed
 
 # Requisite 1 (Screenshot)
 
+<img src="https://raw.githubusercontent.com/sisco0/nervos-hackathon/main/05/01_Deployment.png">
+
 # Requisite 2 (Text)
 
 Contract address:
@@ -17,6 +19,8 @@ Contract address:
 After that, we use it for getting some balance into our ethereum wallet.
 
 # Requisite 3 (Screenshot)
+
+<img src="https://raw.githubusercontent.com/sisco0/nervos-hackathon/main/05/03_balance_check.png">
 
 # Requisite 4 (Text)
 
