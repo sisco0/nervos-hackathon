@@ -6,6 +6,8 @@ First, create a receiver address for _Forge-Bridge_.
 
 # Requisite 1 (Screenshot)
 
+<img src="https://raw.githubusercontent.com/sisco0/nervos-hackathon/main/06/01_receiver_address.png">
+
 # Requisite 2 (Text)
 
 ```
